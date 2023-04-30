@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/webdeploy-monorepo-poc/static/css/main.073c9b0a.css",
-    "main.js": "/webdeploy-monorepo-poc/static/js/main.0a49cbf6.js",
+    "main.js": "/webdeploy-monorepo-poc/static/js/main.fc85d8da.js",
     "static/js/787.d1d4a2c2.chunk.js": "/webdeploy-monorepo-poc/static/js/787.d1d4a2c2.chunk.js",
     "static/media/logo.svg": "/webdeploy-monorepo-poc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/webdeploy-monorepo-poc/index.html",
     "main.073c9b0a.css.map": "/webdeploy-monorepo-poc/static/css/main.073c9b0a.css.map",
-    "main.0a49cbf6.js.map": "/webdeploy-monorepo-poc/static/js/main.0a49cbf6.js.map",
+    "main.fc85d8da.js.map": "/webdeploy-monorepo-poc/static/js/main.fc85d8da.js.map",
     "787.d1d4a2c2.chunk.js.map": "/webdeploy-monorepo-poc/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.0a49cbf6.js"
+    "static/js/main.fc85d8da.js"
   ]
 }
